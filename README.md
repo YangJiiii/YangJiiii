@@ -1,61 +1,75 @@
-<!-- Header -->
 <div align="center">
 
-# 👋 Hi, I’m Dương Dương  
-### 🚀 Building modern products • Full-stack • AI curious
+<!-- ✨ Glitter Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=YangJiii%20%E2%9C%A8&fontSize=64&fontAlignY=35&animation=twinkling&desc=Data%20Engineer%20%7C%20iOS%20Researcher%20%7C%20HaNoi%2C%20VN&descAlignY=58" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20my%20GitHub&fontAlign=50&fontAlignY=35&color=0:0f172a,100:111827" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=900&center=true&vCenter=true&width=700&lines=%F0%9F%92%AB+Combining+data+logic+with+system+internals;%E2%9C%A8+Building+modern+projects+with+clean+UI;%F0%9F%8D%89+Watermelon+enjoyer+%7C+Open+to+Work" alt="Typing SVG" />
+
+<br/>
+
+<!-- Profile quick badges -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%A8-111827?style=for-the-badge&labelColor=0b1020" />
+<img src="https://img.shields.io/badge/Location-HaNoi%2C%20VN-111827?style=for-the-badge&labelColor=0b1020" />
 
 </div>
 
 ---
 
-## 🧠 About me
-- 🔭 Currently working on: **Web apps / AI features / Automation**
-- 🌱 Learning: **System Design, Cloud, MLOps**
-- 💬 Ask me about: **React, Node.js, Python**
-- 📫 Reach me: **your@email.com**
-- ⚡ Fun: **I love clean UI + performance**
-
----
-
-## 🧰 Tech Stack
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+### ✨ About me
+🧠 Data Engineer & iOS Researcher  
+⚙️ I love **pipelines, performance, system internals**  
+🌙 Vibe: **dark / neon / glitter**  
+🍉 Fun: Watermelon is a lifestyle
 
 </div>
 
 ---
 
-## 📊 Stats (Modern Dashboard)
+## 🧰 Tech Stack (glow mode)
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS%20%2F%20Objective--C-111827?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell%20%2F%20Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
 ---
 
-## 🧩 Featured Projects
-- **Project One** — short value proposition + tech (React, Node, Postgres)  
-  → Demo | Repo
-- **Project Two** — short value proposition + tech (Python, FastAPI, Docker)  
-  → Demo | Repo
-- **Project Three** — short value proposition + tech (Next.js, Tailwind)  
-  → Demo | Repo
+## 💎 Sparkly Stats Dashboard
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+
+</div>
 
 ---
 
-## 🧨 Activity Graph
+## 🧩 Selected Work (featured)
+> ✨ Những repo bạn đang show trên site — mình pin lại cho “đúng vibe”.
+
+- 🧪 **EnsWilde** — https://github.com/YangJiiii/EnsWilde  
+- 🔒 **Disable-Call-Recording-BookRestore-** — https://github.com/YangJiiii/Disable-Call-Recording-BookRestore-  
+- 💳 **bl_sbx_apple_wallet** — https://github.com/YangJiiii/bl_sbx_apple_wallet  
+- 🧷 **trolllock** — https://github.com/YangJiiii/trolllock  
+- 🧰 **bl_sbx** — https://github.com/YangJiiii/bl_sbx  
+- 🌐 **Misaka_Network** — https://github.com/YangJiiii/Misaka_Network  
+
+---
+
+## 🪄 Activity Graph (neon flow)
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
@@ -64,10 +78,25 @@
 
 ---
 
+## 🏆 Trophy (just a little sparkle)
 <div align="center">
 
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-[![Facebook](https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook)](https://facebook.com/YOUR_LINK)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" />
 
+</div>
+
+---
+
+## 🌙 Connect
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://facebook.com/duongduong0908"><img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://x.com/duongduong0908"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+</div>
+
+<!-- ✨ Glitter Footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer&animation=twinkling" />
 </div>
