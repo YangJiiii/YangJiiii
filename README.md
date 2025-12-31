@@ -2,7 +2,7 @@
 
 # YangJiii
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&pause=900&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+iOS+Researcher;HaNoi%2C+VN+%E2%80%A2+Watermelon+%F0%9F%8D%89;Simple+but+Colorful+%F0%9F%8C%88" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&pause=900&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+iOS+Researcher;HaNoi%2C+VN+%E2%80%A2+Watermelon+%F0%9F%8D%89" />
 
 <br/>
 <img src="https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BC-ff69b4?style=flat" />
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧰 Tech (simple)
+## 🧰 Tech
 ![Python](https://img.shields.io/badge/Python-ff0000?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ff7a00?style=flat&logo=mysql&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-ffd500?style=flat&logo=apple&logoColor=white)
