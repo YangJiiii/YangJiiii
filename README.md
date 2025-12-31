@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=duongduong0908label=Views&color=blueviolet&style=flat" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BC-ff69b4?style=flat" />
 
 </div>
