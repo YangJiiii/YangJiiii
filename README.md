@@ -1,6 +1,6 @@
 <div align="center">
 
-#YangJiii
+# YangJiii
 
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&pause=900&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+iOS+Researcher;HaNoi%2C+VN+%E2%80%A2+Watermelon+%F0%9F%8D%89;Simple+but+Colorful+%F0%9F%8C%88" />
 
@@ -8,7 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Views&color=blueviolet&style=flat" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BC-ff69b4?style=flat" />
-<img src="https://img.shields.io/badge/Vibe-7%20Colors-7c3aed?style=flat" />
 
 </div>
 
